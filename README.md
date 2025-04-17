@@ -14,6 +14,8 @@ python --version
 pip --version
 ```
 
+Si il n'y a pas d'erreur, c'est que Python et pip sont correctement installés.
+
 Le terminal est accessible via `Ctrl + Alt + T` sur Linux ou en recherchant "cmd" dans le menu Démarrer sur Windows.
 
 ## Installation
